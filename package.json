@@ -1,15 +1,15 @@
 {
   "name": "dirichlet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dirichlet/aliased sinc function",
   "main": "dirichlet.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
+    "almost-equal": "^1.0.0"
   },
   "devDependencies": {
-    "almost-equal": "^0.0.0",
     "tap": "~0.4.8",
     "tape": "~2.4.0"
   },
